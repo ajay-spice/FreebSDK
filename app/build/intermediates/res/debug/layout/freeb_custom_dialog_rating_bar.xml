@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="16dp"
+    android:gravity="center_vertical"
+    android:minHeight="150dp"
+    android:minWidth="300dp"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:orientation="vertical" 
+            >
+
+            <in.freebsdk.views.RobotoTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="How would you rate our app ?"
+                android:textSize="18sp"
+                />
+        </LinearLayout>
+    </LinearLayout>
+
+    <RatingBar
+        android:id="@+id/ratingBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:numStars="5"
+        android:stepSize="1.0"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+       />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <in.freebsdk.views.RobotoButton
+            android:id="@+id/rateusButton"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_marginRight="4dp"
+            android:layout_weight="1.0"
+            android:background="@color/spice_laddooblue"
+            android:paddingLeft="@dimen/margin_15dp"
+            android:paddingRight="@dimen/margin_15dp"
+            android:text="@string/rate_us"
+            android:textColor="@color/White" />
+
+        <in.freebsdk.views.RobotoButton
+            android:id="@+id/cancelButton"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="1.0"
+            android:background="@color/spice_laddooblue"
+            android:paddingLeft="@dimen/margin_15dp"
+            android:paddingRight="@dimen/margin_15dp"
+            android:text="@string/cancel"
+            android:textColor="@color/White" />
+    </LinearLayout>
+
+</LinearLayout><!-- From: file:/F:/FreeBSDK_Studio/FreeB_SDKLibrary1/app/src/main/res/layout/freeb_custom_dialog_rating_bar.xml -->

@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">FreeBSDK</string>
+    <string name="install">INSTALL</string>
+    <string name="rs">\u20B9</string>
+    <string name="please_wait">Please wait..</string>
+    <string name="please_check_connection">Please check internet connection.</string>
+    <string name="empty_value">Please provide required fields as Affiliate ID or Affiliate App ID.</string>
+    <string name="empty_value2">Please provide required fields as Affiliate ID or Affiliate App ID or Unique ID.</string>
+    <string name="something_went_wrong">Oops, Something went wrong. Please try again</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="cancel">Cancel</string>
+    <string name="rate_validation">Please select the stars to rate us</string>
+    <string name="request_for_rate_message">Thank you for your valuable feedback. We are redirecting you to the Google Play Store, kindly provide your rating on the following screen.</string>
+</resources>

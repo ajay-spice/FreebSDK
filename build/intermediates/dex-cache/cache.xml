@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\MyApplication\LatestApp\FreeB_SDKLibrary1\app\build\intermediates\bundles\debug\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f31bf04cae053f090936517d0f50f78a90f44bff">
+        <dex dex="F:\MyApplication\LatestApp\FreeB_SDKLibrary1\app\build\intermediates\pre-dexed\androidTest\debug\classes-6aef63d069b58bb865404f7d561715c4e9e2e1c3.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudio\Android Studio SDK\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="F:\MyApplication\LatestApp\FreeB_SDKLibrary1\app\build\intermediates\pre-dexed\androidTest\debug\support-annotations-22.2.0-57b01c3da6b225535deebf5d424e99b264c42c8d.jar" />
+    </item>
+    <item
+        jar="F:\MyApplication\LatestApp\FreeB_SDKLibrary1\app\libs\httpmime-4.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d34b163e52a9727101aced60775d51c5085390a1">
+        <dex dex="F:\MyApplication\LatestApp\FreeB_SDKLibrary1\app\build\intermediates\pre-dexed\androidTest\debug\httpmime-4.1.1-d190e816468f2aaab8d2f0df700d6b2db91060f3.jar" />
+    </item>
+    <item
+        jar="F:\MyApplication\LatestApp\FreeB_SDKLibrary1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="F:\MyApplication\LatestApp\FreeB_SDKLibrary1\app\build\intermediates\pre-dexed\androidTest\debug\classes-45c2395f00f5c7e7aeb8c79a5bcf51d1081abfd6.jar" />
+    </item>
+    <item
+        jar="F:\MyApplication\LatestApp\FreeB_SDKLibrary1\app\build\intermediates\bundles\debug\libs\android-query-full.0.26.8.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5ab405d9f4eaf5ddd615967cd35650657b758d40">
+        <dex dex="F:\MyApplication\LatestApp\FreeB_SDKLibrary1\app\build\intermediates\pre-dexed\androidTest\debug\android-query-full.0.26.8-b653ff559398c68abf9a0a554a946b59fbd3cfac.jar" />
+    </item>
+    <item
+        jar="F:\MyApplication\LatestApp\FreeB_SDKLibrary1\app\build\intermediates\bundles\debug\libs\retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="F:\MyApplication\LatestApp\FreeB_SDKLibrary1\app\build\intermediates\pre-dexed\androidTest\debug\retrofit-1.9.0-c3f7b6c8454f6d57769e16c7a6f0ddc757797a9b.jar" />
+    </item>
+    <item
+        jar="F:\MyApplication\LatestApp\FreeB_SDKLibrary1\app\build\intermediates\bundles\debug\libs\javax.annotation.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="50857ae5e9522d3a52f6644f71fec9059d665678">
+        <dex dex="F:\MyApplication\LatestApp\FreeB_SDKLibrary1\app\build\intermediates\pre-dexed\androidTest\debug\javax.annotation-b258123a0075e141274ace3be7aa770597172965.jar" />
+    </item>
+    <item
+        jar="F:\MyApplication\LatestApp\FreeB_SDKLibrary1\app\libs\okio-1.3.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1b355f73402020c5a0dcca58affc3ec3dfeabac1">
+        <dex dex="F:\MyApplication\LatestApp\FreeB_SDKLibrary1\app\build\intermediates\pre-dexed\androidTest\debug\okio-1.3.0-42da83924109a3d34d691e6a291440dcdef549e3.jar" />
+    </item>
+    <item
+        jar="F:\MyApplication\LatestApp\FreeB_SDKLibrary1\app\build\intermediates\bundles\debug\libs\okhttp-2.3.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2e7bc7033dc2c8423e661224171b3133fb155b28">
+        <dex dex="F:\MyApplication\LatestApp\FreeB_SDKLibrary1\app\build\intermediates\pre-dexed\androidTest\debug\okhttp-2.3.0-dd2f002de8051ced603716dbd40393e8def8c257.jar" />
+    </item>
+    <item
+        jar="F:\MyApplication\LatestApp\FreeB_SDKLibrary1\app\libs\libGoogleAnalyticsServices.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="db1e65d9e3ee616f871cb23120fbea8f18ad3e4c">
+        <dex dex="F:\MyApplication\LatestApp\FreeB_SDKLibrary1\app\build\intermediates\pre-dexed\androidTest\debug\libGoogleAnalyticsServices-f84683ee9c61a180786f12d704d532c5c333e447.jar" />
+    </item>
+    <item
+        jar="F:\MyApplication\LatestApp\FreeB_SDKLibrary1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="F:\MyApplication\LatestApp\FreeB_SDKLibrary1\app\build\intermediates\pre-dexed\androidTest\debug\internal_impl-22.2.0-f69870945f02695ae04d026f06054d1ca9849d2e.jar" />
+    </item>
+    <item
+        jar="F:\MyApplication\LatestApp\FreeB_SDKLibrary1\app\libs\jackson-annotations-2.5.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a2a55a3375bc1cef830ca426d68d2ea22961190e">
+        <dex dex="F:\MyApplication\LatestApp\FreeB_SDKLibrary1\app\build\intermediates\pre-dexed\androidTest\debug\jackson-annotations-2.5.0-5d1065377a493f0845c1529604ddf67ce010efd4.jar" />
+    </item>
+    <item
+        jar="F:\MyApplication\LatestApp\FreeB_SDKLibrary1\app\build\intermediates\bundles\debug\libs\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="F:\MyApplication\LatestApp\FreeB_SDKLibrary1\app\build\intermediates\pre-dexed\androidTest\debug\gson-2.3.1-6b60bc752a3a4551231fc9efd9a3763af64c2df6.jar" />
+    </item>
+
+</items>

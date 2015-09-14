@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="spice_laddooblue">#FF9800</color>
+    <color name="spice_laddooyellow">#FFC800</color>
+    <color name="statusbar_color">#F57C00</color>
+    <color name="pink">#ff80ff</color>
+    <color name="blue">#3B5998</color>
+    <color name="White">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="red">#ff0000</color>
+    <color name="brown">#8f5b04</color>
+    <color name="lightblack">#4c4c4c</color>
+    <color name="logintext">#c0c0c0</color>
+    <color name="chatTextBG">#c0c0c0</color>
+    <color name="semitransparent">#80000000</color>
+    <color name="solid_white">#ffffffff</color>
+    <color name="secondary_text">#ff999999</color>
+    <color name="translucent_black">#80000000</color>
+    <color name="vivid_yellow">#F4A401</color>
+    <color name="green">#008000</color>
+    <color name="castle_grey">#D1D0CE</color>
+    <color name="platinum">#E5E4E2</color>
+    <color name="light_grey">#F9F8F6</color>
+    <color name="grey">#808080</color>
+    <color name="buttondisabled">#0c5d2a</color>
+    <color name="spice_ladoo_gray">#AAAAAA</color>
+    <color name="dark_gray_pressed">#373e44</color>
+    <color name="expandable_list_view">#202022</color>
+    <color name="expandable_list_view_pressed">#1C1C1E</color>
+    <color name="light_black">#555555</color>
+    <color name="lighter_gray">#878787</color>
+    <color name="deal_border">#cecece</color>
+    <color name="deal_display_bg">#e5e5e5</color>
+    <color name="offers_above_layout_bg">#5C6068</color>
+    <color name="offers_display_bg">#e5e5e5</color>
+    <color name = "notification_red"> #FF5534</color>
+    <color name="red_badge_background">#FF0000</color>
+<color name="transparent">#00000000</color>
+</resources>

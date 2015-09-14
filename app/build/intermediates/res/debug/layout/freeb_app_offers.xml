@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/layout_back" >
+
+    <FrameLayout
+        android:id="@+id/app_offer_frameLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+
+        <RelativeLayout
+            android:id="@+id/app_offers_relative_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/curved_white_with_border" >
+            
+            <ImageView
+                            android:id="@+id/iv_app_icon"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:layout_marginBottom="10dp"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginTop="0dp"
+                            android:layout_centerVertical="true"
+                            />
+
+            <View
+                android:id="@+id/upper_view"
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:visibility="gone" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_toRightOf="@id/iv_app_icon" 
+                >
+
+                <LinearLayout
+                    android:id="@+id/relativeLayout1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="9dp"
+                    android:layout_marginTop="9dp"
+                    android:layout_weight="1"
+                    android:orientation="vertical" >
+
+                
+
+                        
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/tv_app_name"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="10dp"
+                                android:layout_marginTop="-5dp"
+                                android:gravity="top"
+                                android:paddingTop="0dp"
+                                android:textColor="#ff6d00"
+                                android:textSize="12sp" />
+
+                            <in.freebsdk.views.RobotoTextView
+                                android:id="@+id/tv_app_category"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="10dp"
+                                android:textColor="@color/grey" />
+                        </LinearLayout>
+                  
+
+                    <in.freebsdk.views.RobotoTextView
+                        android:id="@+id/tv_app_description"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="-4dp"
+                        android:textColor="@android:color/black" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginBottom="9dp"
+                    android:layout_marginLeft="9dp"
+                    android:layout_marginRight="8dp"
+                    android:layout_marginTop="9dp"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical" >
+
+                        <TextView
+                            android:id="@+id/earnCashTextView"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center_horizontal"
+                            android:text="Earn Cash"
+                            android:visibility="gone"
+                            android:textColor="@color/grey" />
+
+                        <FrameLayout
+                            android:id="@+id/frameLayout1"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:gravity="center" >
+
+                            <ImageView
+                                android:id="@+id/iv_rupee_bg"
+                                android:layout_width="42dp"
+                                android:layout_height="42dp"
+                                android:visibility="gone"
+                                android:src="@drawable/rupees_bg" />
+
+                            <in.freebsdk.views.RobotoTextView
+                                android:id="@+id/tv_amount"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:padding="6dp"
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textColor="#ff6d00"
+                                android:textSize="20sp"
+                                android:textStyle="bold" />
+                        </FrameLayout>
+
+                        <in.freebsdk.views.RobotoTextView
+                            android:id="@+id/install_btn"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="4dp"
+                            android:background="@drawable/round_layout"
+                            android:gravity="center"
+                            android:minWidth="70dp"
+                            android:text="@string/install"
+                            android:textAppearance="?android:attr/textAppearanceSmall"
+                            android:textColor="#FFFFFF" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </RelativeLayout>
+    </FrameLayout>
+
+    <LinearLayout
+        android:id="@+id/nullItemLayout"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:orientation="vertical"
+        android:visibility="gone" >
+    </LinearLayout>
+
+</RelativeLayout><!-- From: file:/F:/FreeBSDK_Studio/FreeB_SDKLibrary1/app/src/main/res/layout/freeb_app_offers.xml -->

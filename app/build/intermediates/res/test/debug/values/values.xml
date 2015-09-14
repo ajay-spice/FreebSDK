@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/F:/FreeBSDK_Studio/FreeB_SDKLibrary1/app/build/intermediates/bundles/debug/res/values/values.xml -->
+    <eat-comment/>
+    <color name="White">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="blue">#3B5998</color>
+    <color name="brown">#8f5b04</color>
+    <color name="buttondisabled">#0c5d2a</color>
+    <color name="castle_grey">#D1D0CE</color>
+    <color name="chatTextBG">#c0c0c0</color>
+    <color name="dark_gray_pressed">#373e44</color>
+    <color name="deal_border">#cecece</color>
+    <color name="deal_display_bg">#e5e5e5</color>
+    <color name="expandable_list_view">#202022</color>
+    <color name="expandable_list_view_pressed">#1C1C1E</color>
+    <color name="green">#008000</color>
+    <color name="grey">#808080</color>
+    <color name="light_black">#555555</color>
+    <color name="light_grey">#F9F8F6</color>
+    <color name="lightblack">#4c4c4c</color>
+    <color name="lighter_gray">#878787</color>
+    <color name="logintext">#c0c0c0</color>
+    <color name="notification_red"> #FF5534</color>
+    <color name="offers_above_layout_bg">#5C6068</color>
+    <color name="offers_display_bg">#e5e5e5</color>
+    <color name="pink">#ff80ff</color>
+    <color name="platinum">#E5E4E2</color>
+    <color name="red">#ff0000</color>
+    <color name="red_badge_background">#FF0000</color>
+    <color name="secondary_text">#ff999999</color>
+    <color name="semitransparent">#80000000</color>
+    <color name="solid_white">#ffffffff</color>
+    <color name="spice_laddooblue">#FF9800</color>
+    <color name="spice_laddooyellow">#FFC800</color>
+    <color name="spice_ladoo_gray">#AAAAAA</color>
+    <color name="statusbar_color">#F57C00</color>
+    <color name="translucent_black">#80000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="vivid_yellow">#F4A401</color>
+    <declare-styleable name="FreeBBannerView"><attr format="boolean" name="bannerClose"/></declare-styleable>
+    <declare-styleable name="ProgressWheel"><attr format="boolean" name="matProg_progressIndeterminate"/><attr format="color" name="matProg_barColor"/><attr format="color" name="matProg_rimColor"/><attr format="dimension" name="matProg_rimWidth"/><attr format="float" name="matProg_spinSpeed"/><attr format="integer" name="matProg_barSpinCycleTime"/><attr format="dimension" name="matProg_circleRadius"/><attr format="boolean" name="matProg_fillRadius"/><attr format="dimension" name="matProg_barWidth"/><attr format="boolean" name="matProg_linearProgress"/></declare-styleable>
+    <dimen name="actionbar_dimen">48dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="layer_width">300dp</dimen>
+    <dimen name="margin_15dp">15dp</dimen>
+    <dimen name="margin_20dp">20dp</dimen>
+    <dimen name="margin_25dp">25dp</dimen>
+    <dimen name="margin_minus_3dp">-3dp</dimen>
+    <dimen name="margin_minus_5dp">-5dp</dimen>
+    <dimen name="margin_minus_7dp">-7dp</dimen>
+    <dimen name="offset_width">48dp</dimen>
+    <dimen name="shadow_width">8dp</dimen>
+    <dimen name="text_size_11">11sp</dimen>
+    <dimen name="text_size_12">12sp</dimen>
+    <dimen name="text_size_13">13sp</dimen>
+    <dimen name="text_size_14">14sp</dimen>
+    <dimen name="text_size_15">15sp</dimen>
+    <dimen name="text_size_17">17sp</dimen>
+    <dimen name="text_size_19">19sp</dimen>
+    <dimen name="text_size_20">20sp</dimen>
+    <integer name="card_flip_time_full">300</integer>
+    <integer name="card_flip_time_half">150</integer>
+    <string name="app_name">FreeBSDK</string>
+    <string name="cancel">Cancel</string>
+    <string name="empty_value">Please provide required fields as Affiliate ID or Affiliate App ID.</string>
+    <string name="empty_value2">Please provide required fields as Affiliate ID or Affiliate App ID or Unique ID.</string>
+    <string name="install">INSTALL</string>
+    <string name="please_check_connection">Please check internet connection.</string>
+    <string name="please_wait">Please wait..</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="rate_validation">Please select the stars to rate us</string>
+    <string name="request_for_rate_message">Thank you for your valuable feedback. We are redirecting you to the Google Play Store, kindly provide your rating on the following screen.</string>
+    <string name="rs">\u20B9</string>
+    <string name="showErrorMessage">false</string>
+    <string name="something_went_wrong">Oops, Something went wrong. Please try again</string>
+    <style name="AppBaseTheme" parent="AppBaseTheme">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="CustomAlertDialogStyle">
+    <item name="android:bottomBright">@color/transparent</item>
+    <item name="android:bottomDark">@color/transparent</item>
+    <item name="android:bottomMedium">@color/transparent</item>
+    <item name="android:centerBright">@color/transparent</item>
+    <item name="android:centerDark">@color/transparent</item>
+    <item name="android:centerMedium">@color/transparent</item>
+    <item name="android:fullBright">@color/transparent</item>
+    <item name="android:fullDark">@color/transparent</item>
+    <item name="android:topBright">@color/transparent</item>
+    <item name="android:topDark">@color/transparent</item>
+</style>
+    <style name="MyTheme" parent="android:Theme.Dialog">
+    <item name="android:alertDialogStyle">@style/CustomAlertDialogStyle</item>
+    <item name="android:windowBackground">@color/transparent</item>
+    <item name="android:textColorPrimary">#FFFFFF</item>
+     <item name="android:backgroundDimEnabled">false</item>
+    <item name="android:textColor">#FFFFFF</item>
+    <item name="android:textStyle">normal</item>
+    <item name="android:textSize">12sp</item>
+</style>
+    <style name="ProgressHUD" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="Theme.Transparent" parent="android:Theme">
+    <item name="android:windowIsTranslucent">true</item>
+    <item name="android:windowBackground">@android:color/transparent</item>
+    <item name="android:windowContentOverlay">@null</item>
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:windowIsFloating">true</item>
+    <item name="android:backgroundDimEnabled">false</item>
+  </style>
+</resources>

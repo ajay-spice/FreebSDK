@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:id="@+id/custom_banner_view">
+
+   <ImageView
+            android:id="@+id/bannerImage"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:scaleType="fitXY" />
+ <ImageButton
+        android:id="@+id/cross"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:visibility="invisible"
+        android:clickable="true"
+        android:background="@drawable/cross_icon" />
+</RelativeLayout><!-- From: file:/F:/FreeBSDK_Studio/FreeB_SDKLibrary1/app/src/main/res/layout/freeb_custom_view.xml --><!-- From: file:/F:/FreeBSDK_Studio/FreeB_SDKLibrary1/app/build/intermediates/bundles/debug/res/layout/freeb_custom_view.xml -->

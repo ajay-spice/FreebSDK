@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- Bottom 2dp Shadow -->
+    <item>
+        <shape android:shape="rectangle" >
+            <solid android:color="@color/deal_border" />
+
+            <corners android:radius="4dp" />
+        </shape>
+    </item>
+
+    <!-- White Top color -->
+    <item android:bottom="3px">
+        <shape android:shape="rectangle" >
+            <solid android:color="@color/White" />
+
+            <stroke
+                android:width="2dp"
+                android:color="@color/deal_display_bg" />
+
+            <corners android:radius="4dp" />
+        </shape>
+    </item>
+    
+
+</layer-list><!-- From: file:/F:/FreeBSDK_Studio/FreeB_SDKLibrary1/app/src/main/res/drawable/curved_white_with_border.xml -->

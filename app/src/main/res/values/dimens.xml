@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="actionbar_dimen">48dp</dimen>
+
+    <!-- Margins -->
+    <dimen name="margin_15dp">15dp</dimen>
+    <dimen name="margin_minus_3dp">-3dp</dimen>
+    <dimen name="margin_minus_5dp">-5dp</dimen>
+    <dimen name="margin_minus_7dp">-7dp</dimen>
+    <dimen name="margin_20dp">20dp</dimen>
+    <dimen name="margin_25dp">25dp</dimen>
+
+    <!-- Text Sizes -->
+    <dimen name="text_size_20">20sp</dimen>
+    <dimen name="text_size_19">19sp</dimen>
+    <dimen name="text_size_17">17sp</dimen>
+    <dimen name="text_size_15">15sp</dimen>
+    <dimen name="text_size_14">14sp</dimen>
+    <dimen name="text_size_13">13sp</dimen>
+    <dimen name="text_size_12">12sp</dimen>
+    <dimen name="text_size_11">11sp</dimen>
+    <dimen name="shadow_width">8dp</dimen>
+    <dimen name="layer_width">300dp</dimen>
+    <dimen name="offset_width">48dp</dimen>
+
+</resources>

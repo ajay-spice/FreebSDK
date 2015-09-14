@@ -1,0 +1,68 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false" >
+
+<!--     <item -->
+<!--         android:drawable="@drawable/spinner_0" -->
+<!--         android:duration="60"/> -->
+<!--     <item -->
+<!--         android:drawable="@drawable/spinner_1" -->
+<!--         android:duration="60"/> -->
+<!--     <item -->
+<!--         android:drawable="@drawable/spinner_2" -->
+<!--         android:duration="60"/> -->
+<!--     <item -->
+<!--         android:drawable="@drawable/spinner_3" -->
+<!--         android:duration="60"/> -->
+<!--     <item -->
+<!--         android:drawable="@drawable/spinner_4" -->
+<!--         android:duration="60"/> -->
+<!--     <item -->
+<!--         android:drawable="@drawable/spinner_5" -->
+<!--         android:duration="60"/> -->
+<!--     <item -->
+<!--         android:drawable="@drawable/spinner_6" -->
+<!--         android:duration="60"/> -->
+<!--     <item -->
+<!--         android:drawable="@drawable/spinner_7" -->
+<!--         android:duration="60"/> -->
+<!--     <item -->
+<!--         android:drawable="@drawable/spinner_8" -->
+<!--         android:duration="60"/> -->
+<!--     <item -->
+<!--         android:drawable="@drawable/spinner_9" -->
+<!--         android:duration="60"/> -->
+<!--     <item -->
+<!--         android:drawable="@drawable/spinner_10" -->
+<!--         android:duration="60"/> -->
+<!--     <item -->
+<!--         android:drawable="@drawable/spinner_11" -->
+<!--         android:duration="60"/> -->
+
+
+<item
+        android:drawable="@drawable/loader_0"
+        android:duration="60"/>
+    <item
+        android:drawable="@drawable/loader_1"
+        android:duration="60"/>
+    <item
+        android:drawable="@drawable/loader_2"
+        android:duration="60"/>
+    <item
+        android:drawable="@drawable/loader_3"
+        android:duration="60"/>
+    <item
+        android:drawable="@drawable/loader_4"
+        android:duration="60"/>
+    <item
+        android:drawable="@drawable/loader_5"
+        android:duration="60"/>
+    <item
+        android:drawable="@drawable/loader_6"
+        android:duration="60"/>
+    <item
+        android:drawable="@drawable/loader_7"
+        android:duration="60"/>
+  
+
+</animation-list><!-- From: file:/F:/FreeBSDK_Studio/FreeB_SDKLibrary1/app/src/main/res/anim/spinner.xml -->

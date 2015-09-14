@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- <shape 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle"
+    android:thickness="2dp"
+    >
+    
+    <corners android:radius="3dp"
+        />
+    <solid android:color="#ffffff"/>
+    <gradient />
+    <stroke  android:color="#ffffff"/>
+    
+</shape>
+ -->
+ <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item >
+        <shape 
+            android:shape="rectangle">
+        <solid android:color="#e9e9e9" />
+        <corners android:radius="0dp"/>
+        </shape>
+    </item>
+    <item android:right="1dp" android:left="1dp" android:bottom="2dp" android:top="1dp">
+        <shape 
+            android:shape="rectangle">
+        <solid android:color="@android:color/white"/>
+        <corners android:radius="0dp"/>
+        </shape>
+    </item>
+</layer-list>
+<!-- From: file:/F:/FreeBSDK_Studio/FreeB_SDKLibrary1/app/src/main/res/drawable/custom_shadow.xml -->
